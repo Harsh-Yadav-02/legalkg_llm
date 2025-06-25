@@ -1,0 +1,16 @@
+Assume you are a legal expert who understands legal documents thoroughly.
+
+Given the following list of relations, do the following:
+1. Retain every relation that has any legal relevance, no matter how minimal; only exclude those that clearly fall outside the legal domain.
+2. Normalize and standardize the remaining relation names by merging variant phrasings into a single canonical form.
+3. Your output must be a single JSON object—starting with “{{” and ending with “}}”, with no extra text or explanation outside the braces.
+
+   - Each key is a canonical relation name (string).
+   - Each value must be a list of original relation strings (list of strings).
+
+Here is the list of relations:
+{relation_list}
+
+IMPORTANT:
+- Do not include any commentary, bullet points, or code fences.
+- Do not omit the outer curly braces.

@@ -1,0 +1,13 @@
+Assume you are a legal ontology specialist with deep knowledge of legal documents.
+
+Given the following list of entity types, do the following:
+1. Discard any entries that are not relevant to the legal domain.
+2. For each remaining entry, merge any variants, synonyms, or ambiguous forms into a single canonical key.
+3. Produce exactly one JSON object (no extra text, no explanations). Each key must be the finalized, canonical entity type, and each value must be an array of the original strings (exactly as provided) that were folded into that key.
+
+Here is the list of entity types:
+{entity_list}
+
+IMPORTANT:
+- Do not include any comments, bullet points, or code fences.
+- Do not omit the outer curly braces.

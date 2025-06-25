@@ -1,0 +1,67 @@
+Act: A statute formally enacted by the Parliament of India or a State Legislature, e.g. the Indian Penal Code, 1860.
+Action: Any formal step or proceeding taken in a court or tribunal under statutory or procedural law.
+Amount: A specified sum of money claimed, awarded, or paid in any civil or criminal proceeding.
+Application: A written plea or request submitted to a court or authority under a specific statute or rule.
+Appellant: The party who files an appeal against a lower court’s decision in an appellate forum.
+Argument: The oral or written presentation of legal reasoning and authorities before a court.
+Asset: Any property—movable or immovable—that can be the subject of legal rights or obligations.
+Bank: A financial institution governed by the Banking Regulation Act, 1949, which may appear as party, witness or custodian in litigation.
+Beneficiary: A person entitled to receive benefits under a will, trust, insurance policy, or statutory scheme.
+Case: A dispute or matter formally instituted in a court or tribunal for adjudication.
+Case Reference: The citation or docket number by which a particular court proceeding is identified.
+Charge: The specific offence(s) framed against an accused under the Indian Penal Code or special enactments.
+Company: A corporate entity incorporated under the Companies Act, 2013, capable of suing or being sued.
+Commodity: Goods or wares—especially those traded under the Forward Contracts (Regulation) Act, 1952—that may be seized or regulated.
+Contract: A legally enforceable agreement between two or more parties governed by the Indian Contract Act, 1872.
+Country: A sovereign state—most often appearing in international law contexts or extradition matters.
+Court: Any constituted judicial body (e.g. Supreme Court, High Court, District Court) exercising adjudicatory power.
+Court Official: A person (e.g. judge, registrar, bailiff) holding an office within a court’s administrative framework.
+Crime: An act or omission punishable by law under the Indian Penal Code or other offence-creating statutes.
+Date and Time: The exact calendar date and clock time at which a legal event (e.g. filing, hearing) occurs.
+Decision: The reasoned order or judgment delivered by a court or tribunal disposing of a matter.
+Defendant: The person or entity against whom a civil suit is filed or who is accused in a criminal prosecution.
+Document: Any written, printed, or electronic record—such as pleadings, deeds, or judgments—admissible as evidence.
+Employee: A worker engaged under a contract of service, whose rights are governed by labour and industrial laws.
+Evidence: Oral testimony, documents, or material objects presented to prove or disprove facts in issue.
+Fact: A circumstance or event that is asserted and proved or disproved during litigation.
+Government Agency: A statutory or administrative body (e.g. SEBI, RBI, Income-tax Department) executing governmental functions.
+Government Entity: Any body or instrumentality of the Union or a State—whether statutory, constitutional, or corporate.
+Government Official: An individual holding public office under the Union or a State government, including officers under Article 312 of the Constitution.
+Goods: Movable property other than actionable claims, as defined in the Sale of Goods Act, 1930.
+Judge: A member of the judiciary—appointed under the Constitution—to preside over cases in a High Court or the Supreme Court.
+Jurisdiction: The legal authority of a court to hear and decide a case, defined by territorial, subject-matter, or pecuniary limits.
+Law: Any binding rule or norm promulgated by a competent authority, including statutes, regulations, and judicial precedents.
+Legal Authority: A source of law—such as statutes, case law, or constitutional provisions—cited to support a legal proposition.
+Legal Concept: An abstract doctrinal notion—such as “natural justice” or “arbitrability”—used in legal analysis.
+Legal Counsel: An advocate or attorney-at-law entitled to practice before Indian courts under the Advocates Act, 1961.
+Legal Document: A formally executed instrument (e.g. plaint, written statement, deed) that creates, records, or modifies legal rights.
+Legal Principle: A foundational rule of law—such as “res judicata” or “stare decisis”—recognized by Indian jurisprudence.
+Legislature: The Parliament of India or a State Legislature empowered to enact statutes under Articles 245–255 of the Constitution.
+Location: A geographical place—such as a court’s address or the situs of property—relevant to a legal proceeding.
+Monetary Value: A specified sum expressed in Indian currency (₹) or foreign exchange, relevant for damages or fines.
+Money: Legal tender or negotiable instruments—such as coins, currency notes, or bank drafts—recognized under the Coinage Act, 2011.
+Obiter Dictum: A remark or observation by a judge in a judgment that is not binding as precedent but may be persuasive.
+Offence: Any act or omission declared punishable by law, synonymous with “crime” under Indian statutes.
+Order: A directive or command issued by a court or tribunal that may be operative immediately upon pronouncement.
+Organization: Any body of persons—incorporated or unincorporated—such as trusts, societies, or associations subject to law.
+Party: A plaintiff, defendant, appellant, respondent, or other litigant in a legal proceeding.
+Petition: A formal written prayer to a court or authority under special statutes (e.g. writ petition under Art. 32/226).
+Petitioner: The individual or entity who presents a petition or application before a court or tribunal.
+Prosecution: The state’s machinery that conducts criminal proceedings against an accused person under the Code of Criminal Procedure.
+Procedure: The set of rules and steps—civil or criminal—governing how a case is conducted in court (e.g. CPC, CrPC).
+Property: Movable or immovable assets vested with legal rights, defined under the Transfer of Property Act, 1882.
+Publication: The act of making a statement or material accessible to the public, relevant in defamation and copyright matters.
+Ratio Decidendi: The legal principle or rule of law on which a court’s decision is founded and which is binding in later cases.
+Regulation: A subordinate legislative instrument issued under the authority of a parent statute, e.g. SEBI Regulations.
+Respondent: The party against whom an appeal, petition, or writ is filed in a higher court or tribunal.
+Role: The function or capacity in which a person appears in a case, e.g. witness, expert, or arbitrator.
+Section: A numbered provision within a statute that deals with a specific aspect of the law.
+Sentence: The punishment—imprisonment, fine, or other penalty—imposed by a criminal court upon conviction.
+Statute: A written law passed by the Parliament or State Legislature and published as an Act.
+Statute Provision: A specific clause, sub-section, or schedule within a statute that addresses a distinct legal requirement.
+Suspect: A person believed to have committed an offence, under investigation but not yet formally charged.
+Tax: A compulsory levy imposed by the government under fiscal statutes such as the Income-tax Act, 1961.
+Term: A defined word or phrase within a statute or contract, given a specific legal meaning.
+Victim: A person who has suffered harm—physical, financial, or moral—as a result of an offence.
+Weapon: Any instrument or device—firearm, knife, etc.—that is capable of causing death or injury and regulated under arms laws.
+Witness: A person who gives testimony under oath about facts perceived through sight, hearing, or other sense.

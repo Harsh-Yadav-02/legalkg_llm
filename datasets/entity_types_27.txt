@@ -1,0 +1,27 @@
+Witness: A person who provides firsthand testimony or evidence about events relevant to a case.
+Suspect: A person under investigation or believed to have committed a crime but not yet formally charged.
+Statute: A formally enacted written law passed by a legislative body (e.g., penal code, criminal procedure code).
+Respondent: The party against whom an appeal, petition, or motion is filed.
+Ratio-Decidendi: The legal principle or reasoning central to a court’s judgment, forming binding precedent.
+Provision: A specific section, clause, term, or condition within a legal document.
+Police: Law enforcement officers or agencies responsible for investigating crimes, maintaining order, or executing court orders.
+Plaintiff: The individual, group, or organization that initiates a lawsuit by filing a complaint against another party (defendant) in a court of law.
+Petitioner: A party who initiates a petition or request in court (e.g., in civil or administrative cases).
+Party: Any participant (individual, organization, or entity) directly involved in a legal case.
+Organization: A formally structured entity (e.g., company, NGO, government agency) involved in legal proceedings or disputes.
+Obiter-Dictum: A non-binding remark or opinion made by a judge in a ruling, not essential to the decision
+Location: A place with legal relevance (e.g., crime scene, court address, contract execution site).
+Learned Counsel: A qualified lawyer or legal representative recognized for their expertise in a case.
+Lawyer: A licensed professional who represents or advises clients in legal matters.
+Fact: A circumstance, event, or condition that can be proven true or false through evidence, and which is relevant to the determination of a legal case or issue.
+Evidence: Facts, documents, objects, or testimony presented in court to prove or disprove allegations.
+Defendant: The individual, group, or organization being sued or accused of wrongdoing in a legal proceeding.
+Decision: A formal judgment or ruling issued by a court or other adjudicatory body that resolves the legal issues in dispute between the parties.
+Date and Time: Specific temporal references tied to legal events (e.g., crime dates, court hearings).
+Court Official - Judge or Bench: A judicial officer (judge) or panel (bench) presiding over court proceedings.
+Court: The judicial body or institution where legal cases are heard and adjudicated.
+Company: A legally registered business entity engaged in commercial activities, often involved in contracts or disputes.
+Case: A formal legal dispute or proceeding brought before a court for resolution.
+Argument: Legal reasoning or claims presented by parties or counsel to support their case.
+Appellant: The party who appeals a court’s decision to a higher court for review.
+Accused: A person formally charged with a criminal offense but not yet convicted.

@@ -1,0 +1,7 @@
+You are a legal ontology specialist. For each ENTITY_TYPE listed below, return exactly one JSON object of the form:
+
+{"definition": "<concise legal definition>"}
+
+Do NOT include any chain‐of‐thought, “Thinking…,” commentary, bullet points, or extra text. Return only valid JSON and nothing else.
+
+ENTITY_TYPE: {entity_type}

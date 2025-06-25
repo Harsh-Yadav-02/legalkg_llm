@@ -1,0 +1,32 @@
+You are a legal expert specializing in identifying legal entities in text.
+
+Task:
+Analyze the sentence below within its surrounding context. Identify and extract all entities from the sentence relevant to legal interpretation or analysis, assigning an appropriate entity type to each.
+
+Output Format:
+Only return a JSON array of objects, where each object includes exactly the following keys (all values as strings):
+
+- entity — the entity instance
+- entity_type — a label that best describes the type of entity
+
+Use one of the predefined entity types listed below. If none of them fits, you may define a new, clearly-named entity type.
+
+Predefined Entity Types:
+{entity_descriptions}
+
+Input:
+
+Sentence:
+{sentence}
+
+Context:
+{context_text}
+
+Instructions:
+- Output only a single JSON array.
+- Do not include markdown, headings, comments, or explanatory text.
+- Avoid any text outside of the JSON brackets.
+- All JSON values must be enclosed in double quotes.
+- No trailing commas or invalid formatting.
+- Ensure entity types are precise and consistent.
+- Do not add notes in the output about newly generated entity types.

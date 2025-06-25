@@ -1,0 +1,321 @@
+file: To create, store, or submit a formal record of legal actions.
+charge: A charge denotes the formal accusation brought by a prosecuting authority against a defendant.
+is: Describes a direct equality or identity between two legal concepts.
+agent: An individual or entity acting on behalf of another party within a legal context.
+appeal: A request made to a higher court or tribunal to review and overturn a lower court's decision.
+relate: To establish or describe the connection or association between two legal concepts.
+deliver: To transfer or hand over something, such as property or documents, from one party to another as required by law.
+conviction: The legal determination that an accused person is guilty of a crime.
+act: The performance of an action by one party influences or determines their legal obligations or rights concerning another party.
+citation: A reference or acknowledgment of a legal authority, case, or statute in written work to support an argument or conclusion.
+submit: Indicates the formal handing over of a legal document or request to an authority.
+exercise: The active use or invocation of a right, privilege, or power under specified conditions.
+examination: The process of thoroughly analyzing or inspecting something under legal scrutiny.
+action: A formal proceeding in court to initiate legal relief or enforce rights.
+decide: A judicial body formally determines the resolution of a matter, such as a verdict, sentence, or order.
+did_not_commit: One party is not legally responsible for the actions or obligations of another.
+sentence: A sentence relates an accused individual to the specific punishment they are assigned.
+involvement: The act of participating in or being associated with a wrongful act, thereby making the individual liable or responsible.
+jurisdiction: Jurisdiction refers to the authority of a court to hear and decide cases within a specific geographic area or over particular types of legal matters.
+cause: Establishing an event or action that produces a specific legal result.
+issuing: The act of creating and formally authorizing a legal document or instrument to be officially produced and put into effect.
+direct: A direct relationship exists when one legal concept is immediately connected to another without intermediaries.
+own: To have lawful possession, authority, or control over a person, entity, asset, or right.
+creation: The establishment of a new legal right, obligation, or entity.
+authorize: To grant official permission or formal authority to someone to carry out specific actions or enforce laws.
+define: One concept defines another when it provides a detailed explanation or specifies the scope and meaning of the latter.
+challenge: A party challenges a decision when they contest its validity or correctness.
+order: A directive issued by a court or judicial authority requiring specific actions or behaviors to be carried out, enforceable under the law.
+accused: A person formally charged or alleged to have committed a crime or wrongful act.
+commit: When one legal concept commits another, it signifies that the former perpetrates or carries out the latter as a criminal act.
+provide: Provide refers to the act of furnishing, delivering, or making available something, such as information, goods, or services, from one party to another.
+claim: One party asserts a claim by stating its right or entitlement to something through a legal process or argument.
+possess: One party has rightful ownership or control over another entity as their property.
+use: The application or employment of one legal concept in relation to another, such as using intellectual rights over tangible property.
+dismiss: To dismiss a case means to terminate its proceedings without determining guilt or liability.
+require: One party is legally compelled or obliged to perform specific actions or meet certain conditions imposed by another party.
+failure: The occurrence of an unforeseen event that prevents the fulfillment of a legal obligation.
+receive: One legal concept obtains or gains possession of something from another.
+represent: Represent means for one legal entity or person to act on behalf of another, conveying their interests or rights.
+authority: Authority refers to the power or right of one legal entity or person to make decisions, enforce laws, or regulate actions within the framework of another.
+obligate: Signifies a binding legal duty imposed on one party by another through enforceable terms or law.
+result: The Result relation indicates the consequence or outcome produced by one legal concept concerning another.
+support: The relation 'support' indicates that one legal concept furnishes the basis or justification for another.
+find: To find means for a court or tribunal to reach a decision or determination on a particular issue or fact in legal proceedings.
+based_on: The relationship where one legal concept or rule is founded upon or derived from another.
+refer: To make reference to or cite something.
+against: One party opposes or acts in conflict with another party's rights or interests.
+acquitted: A defendant has been legally determined not to be guilty of the charges brought against them.
+agreement: A mutual understanding or arrangement between two or more parties to perform specific actions or refrain from certain behaviors, forming the basis of legal obligations.
+allowance: The grant of permission or exemption from a restriction under a statute or regulation.
+case: A legal proceeding where a court addresses a specific matter between two or more parties.
+determination: A formal decision made by a legal authority to settle a matter or issue.
+engagement: the process by which two legal entities establish a formal agreement or obligation.
+evidence: Evidence refers to information or material presented to support a claim, fact, or assertion in a legal context.
+part: One entity serves as a component or portion of another entity.
+transfer: The act of conveying rights or obligations from one party to another.
+acceptance: Acceptance refers to the act of agreeing to or receiving something, often in legal contexts such as contracts or settlements.
+right: A justifiable claim or entitlement that is enforceable by law.
+reject: Indicates that one legal concept refuses to accept or acknowledge another.
+bring: To initiate or transfer the responsibility or authority for a legal matter or proceeding.
+section: A section refers to a subdivision within a larger legal document, such as an act or regulation.
+observe: To take notice of or pay attention to a legal requirement, rule, or condition.
+refuse: The act of intentionally withholding consent or denying a request.
+conduct: Conduct refers to the actions taken by a party that determine whether they are acting lawfully or unlawfully.
+confirm: To validate or substantiate the accuracy and legality of a decision, claim, or fact.
+declare: To formally state or announce a legal right, obligation, or fact.
+interpretation: The process of explaining or clarifying the meaning of a legal text.
+judgment: A formal decision made by a court or tribunal resolving the issues of a case.
+perform: To carry out or execute an action, obligation, or task as required by law.
+regulated: The term refers to the control or oversight exercised by one legal entity or authority over another, ensuring compliance with established laws, rules, or standards.
+enactment: The formal process by which a legislative body introduces and approves legislation to create or amend laws.
+affect: When one legal concept influences or impacts another in altering rights, duties, or responsibilities.
+confer: To grant or impart a right, power, or privilege.
+testimony: The information provided by a witness under oath during legal proceedings.
+conclusion: The final decision reached after analyzing the facts and law in a legal matter.
+reliance: Reliance refers to the justified dependence by one party on the statements or conduct of another party in legal contexts.
+shall: In legal contexts, 'shall' is used to create mandatory obligations or duties that must be fulfilled.
+urge: Compel or press for immediate legal action regarding a matter.
+appeal: A formal request by one party to a higher judicial authority to review and overturn a lower court's decision.
+arrest: The act of detaining an individual suspected of committing a crime by law enforcement authority.
+deny: One party refuses to accept or recognize the validity or enforceability of another's claims or rights.
+parties: The Parties clause identifies the individuals or entities involved in a legal matter.
+prosecution: The legal process initiated by the government or a designated authority to enforce laws against individuals or entities suspected of violations.
+record: A record refers to the official written account of legal proceedings, decisions, or actions.
+restriction: The application of a limitation or condition that controls or limits how one legal concept operates in relation to another.
+complaint: A complaint refers to the act of formally accusing another party of wrongdoing to initiate legal proceedings.
+court_proceedings: The sequence of formal steps and events carried out during a legal trial or hearing involving actions and rulings.
+judge: A judge has the authority to preside over and make decisions regarding legal matters involving another individual or entity.
+kill: The act of intentionally causing another person’s death through unlawful means.
+participant: An individual or entity involved in a legal matter, holding rights and obligations under the law.
+permit: A permit is a formal authorization or license granted to allow a specific action that might otherwise be restricted or prohibited.
+petition: A formal request made to a court or authority.
+representation: A legal relationship where one entity acts on behalf of another.
+request: A formal or informal expression of a need or demand directed to another party in legal proceedings.
+serve: One legal concept provides the means or mechanism necessary for another legal concept to be fulfilled or achieved.
+frame: The semantic meaning of the relation 'frame' is that it defines the boundaries or context within which two legal concepts are understood or applied.
+act_under: One legal entity acts or operates on behalf of or under the authority of another legal entity.
+binding: An obligation or duty imposed by one legal concept on another.
+classification: The organization of legal concepts into categories based on shared characteristics or criteria.
+decision: The resolution made by a court or tribunal to determine the outcome of a legal matter.
+investigation: A formal inquiry conducted by authorities to gather evidence regarding suspected illegal activities.
+member_of: Indicates that one entity is part of another group, organization, or body.
+not: The relation 'not' indicates that one legal concept does not apply or pertain to another.
+offer: An offer is a proposal made by one party to another that, if accepted, creates a binding agreement.
+report: A report relation indicates that one legal concept provides information or documentation about another legal concept.
+testify: The act of providing evidence or a statement under oath in legal proceedings.
+trial: A formal proceeding where evidence is presented to determine the outcome of a legal case.
+enforcement: The act of ensuring compliance with a rule or obligation.
+liability: The legal responsibility of a party for harm or loss caused by their actions or omissions.
+corroboration: The process of supporting a fact or assertion with additional evidence or testimony.
+crime: an unlawful act punishable by law.
+duty: Duty refers to an obligation owed by one legal entity to another under the terms of a contract, statute, or agreement.
+modify: The relation 'modify' indicates that one legal concept alters or changes another.
+payment: The transfer of money or property from one party to another in fulfillment of an obligation or agreement.
+purchase: The act where one party buys something from another in exchange for consideration.
+seek: To seek means to actively look for or attempt to obtain something, often rights, remedies, or compensation.
+state: Describes the quality or condition of a thing in law.
+allegation: An allegation involves the assertion by one party that another has committed a specific act.
+dispose_of_case: A judge or court settles and finalizes a legal case.
+incorporate_law: The process by which a lower or subsidiary law becomes part of a higher or primary legal framework.
+notice: Notice is a formal or official communication of information, often required by law.
+overrule: Overrule occurs when a higher authority sets aside a prior decision due to an error in the interpretation or application of the law.
+paid: An exchange of value provided in return for goods, services, or consideration under a legal agreement.
+similar: Indicates that two legal concepts are alike or share comparable characteristics.
+maintain: One legal concept ensures the continuation or enforcement of another.
+assist: One legal concept provides support or aid to facilitate the implementation or enforcement of another.
+carried: Refers to the transport of goods under an agreement where the carrier assumes responsibility for the items during transit.
+communication: The exchange of information or messages between two parties in a manner that creates mutual understanding and may establish legal rights or obligations.
+compliance: The relation 'compliance' indicates that one legal concept is required to adhere to or conform with another.
+dealing_with: The act of handling, addressing, or managing a particular legal matter or issue.
+dealt_with: A legal authority or entity responsible for addressing or managing a particular matter.
+discharge: To release or rid oneself of a legal obligation or liability.
+exclude: The exclusion refers to circumstances where one legal concept is removed or not included within the scope of another legal concept.
+express_opinion: One party formally states their view on another party's legal rights or obligations.
+opinion: An opinion is a legal conclusion or assessment provided by a judge, jury, or legal expert that guides judicial decisions or provides authoritative advice.
+interaction: The relation captures how one legal concept influences and is influenced by another legal concept through mutual effects or interdependencies.
+knowledge: The understanding or awareness of facts necessary for establishing liability or intent in legal contexts.
+oppose: One party resists or challenges another's position, rights, claims, or actions within a legal framework.
+terminate: To end legal obligations between parties with no further responsibilities.
+victim: A person who has suffered harm, damage, or loss as a direct result of the unlawful actions or omissions of another party.
+violate: Intentionally disregard or break a law, contract, or other legal requirement.
+accompany: To attend or be present alongside another party in a particular matter or proceeding.
+acquire: To obtain legal rights or title to something through lawful means.
+admit: To formally acknowledge or confess to the truth of a charge or claim in a legal context.
+affiliate: A business relationship where one entity has a significant ownership or control over another, typically through shared financial interests.
+breach: A failure to fulfill an obligation or duty under a contract or legal responsibility.
+conflict: The relation 'conflict' indicates an opposition or inconsistency between two legal concepts.
+date: The date specifies a particular time point in which an event or obligation occurs under the law.
+defence: A justification or excuse used by a defendant to reduce or eliminate liability for a wrongdoing.
+falls_under: The first legal concept is included within or constitutes a part of the second legal concept.
+power: Power denotes the authority granted to an individual or entity to make decisions, enforce rules, or take actions within a specific scope.
+information_disclosure: The act of sharing specific information by one party to another as required by law or contractual obligations.
+initiate_action: It refers to starting or beginning a legal process or proceeding.
+intent: Intent refers to the state of mind or purpose that a person has when performing an action, establishing their knowledge or desire regarding its consequences within legal contexts.
+judicial_authority: The power of a court to interpret and apply laws, make binding decisions, and enforce legal principles.
+party: A party is an individual or entity involved in a legal proceeding who has legal rights or obligations related to the matter.
+procedure: The formal steps and processes established by law that must be followed in any legal action or proceeding.
+prohibit: To establish a legal restriction or constraint that makes an action unlawful.
+authorize: To grant official permission or power to act under legal authority.
+regard: Consideration or attention given to one legal concept in relation to another.
+release_on_bail: The defendant is released from custody under certain conditions as part of the bail process.
+show: The first concept serves as evidence to prove the second concept.
+advanced: The relation 'advanced' indicates a specialized or higher level of knowledge, skill, or understanding within a particular legal domain.
+associate: To form a connection or partnership with another entity or individual for mutual purposes or interests.
+award: The amount of money granted to one party as compensation for loss or fulfillment of a contractual obligation.
+deprive: To cause another person to lose a right, entitlement, or possession through wrongful conduct.
+disregard: Disregard refers to ignoring a fact or circumstance because it does not qualify as binding or valid under the law.
+does_not_require: One legal concept does not necessitate the existence or occurrence of another.
+extend: A legal authority extends another concept, typically a deadline or statute.
+provision: A legal provision refers to the establishment or creation of rights, duties, powers, or restrictions within a legal document.
+hears: A direct personal knowledge of a fact, rather than information learned from another source.
+influence_legal: One legal concept affects or induces another legal concept to act or behave in a particular manner within the bounds of the law.
+institution_legal: The relationship where one legal concept is established or operates under the authority of another.
+interest: Interest refers to a legal right or entitlement that one party has over another's property or asset.
+introduction: The act of formally presenting or bringing a legal concept, principle, or matter into a discussion or proceeding.
+involved_in: One party participates or engages in a legal proceeding or action.
+produce: To generate, create, or bring into existence a legal document, obligation, or right under specific circumstances.
+reduce: One party diminishes or lessens the rights, obligations, or penalties of another.
+repeal: The act of officially canceling or invalidating a law, statute, or regulation, thereby removing its legal authority and application.
+rule: A rule establishes standards of conduct or procedures that govern behavior in legal contexts.
+sanction: A formal penalty imposed by a court or authority to enforce compliance with a law, rule, or obligation.
+strike_action: A collective work stoppage by employees to protest or negotiate terms with an employer.
+sue: The act of initiating legal proceedings against another party to seek compensation or remedy for perceived wrongs.
+tax: A tax is a compulsory contribution imposed by a government authority to fund public services or governmental functions.
+assault: Assault occurs when one person intentionally causes another to experience a reasonable apprehension of imminent harmful or offensive contact.
+form: The relation 'form' indicates how one legal concept is structured or established through another.
+accuse: To formally charge or allege wrongdoing against another party in a legal proceeding.
+analysis: The detailed examination of legal information to derive meaning and draw conclusions.
+answer: A formal written response by a defendant to a plaintiff's allegations in a legal case.
+assessment: The process of determining or evaluating a specific value, amount, or legal effect.
+calculate: To determine a specific value or consequence by systematically evaluating relevant factors or applying legal principles.
+call: A formal request by a judicial officer for an individual to appear in court.
+cancel: To terminate or nullify an agreement or obligation.
+delegate: The transfer of authority from one party to another to act on their behalf within specified limits.
+demand: A formal request for specific action or compensation.
+designation: The formal naming or appointment of a person to a specific role or position under the law.
+effect: The consequence or outcome resulting from a legal rule, statute, or action.
+effective_date: The date when a legal provision, agreement, or statute becomes legally binding and enforceable.
+role: The relation 'role' defines the specific responsibilities, rights, and duties that each entity is assigned within a legal context.
+injury_claim: A legal demand for compensation made by an injured party against another party alleged to have caused harm or damage.
+invalidation: Invalidation refers to the act of rendering another legal concept without legal effect.
+omission: Omission refers to the failure to act when there was a legal duty or obligation to do so.
+place: The location where legal events occur or obligations are tied.
+protect: To safeguard or uphold the rights or interests of a party against harm or interference.
+quote: To repeat verbatim from a legal authority or document while attributing the source.
+raise_before_court: One party formally presents an issue, motion, or objection to the court for its consideration during a legal proceeding.
+recover: To obtain something lost or awarded through a legal process.
+save: To preserve or protect from harm, loss, or penalty.
+secure: To obtain or guarantee rights or protections.
+sign: One legal concept is authenticated or agreed to by another.
+status: The current legal state or condition of a subject.
+subject: A person or entity that is the focus of a legal proceeding or obligation.
+suspect: A person identified by law enforcement as having reasonable grounds to believe may have committed a crime.
+validate: To confirm that something is legally valid or enforceable.
+vested: Refers to a legal right or interest that has become fixed and cannot be revoked.
+was_charged: to have formally accused someone of committing a specific offense
+transfer: To convey or move ownership, title, or rights from one party to another.
+fault: A failure to act as required by law, resulting in liability.
+witness_relation: The connection between a witness and another party or element in a legal proceeding.
+accusing: Accusing refers to the act of making a formal allegation by one legal entity or person against another.
+acts_on_behalf_of: A party acts on behalf of another party within the scope of their authority or agency.
+addressed: The legal concept X is addressed by legal concept Y when Y deals with X.
+affirmation: The formal recognition of the validity or enforceability of a legal document, decision, or declaration.
+asset: A right or interest in property intended to provide a present or future benefit.
+carries: An estate or interest carries specific rights that may survive or transfer independently of the ownership of the underlying property.
+case_related: Two legal cases that share common issues or parties.
+caught: A legal concept describing the apprehension or detention of an individual by law enforcement.
+close: Indicates the nearness or proximity between two legal concepts.
+commission: A situation where one party acts on behalf of another to accomplish a specific task or transaction.
+custody: the legal right to care for and supervise a child, typically granted to parents under the terms of a court order.
+death: The termination of one legal concept results from an event involving death.
+defendant: The party accused of a legal wrongdoing or breach who is required to answer the plaintiff's claims in court.
+disallow: Disallow refers to the act where one legal concept restricts or prohibits another from being implemented or enforced.
+does_not_have: Signifies the absence of possession, entitlement, or qualification between two legal concepts.
+does_not_impose_obligation: The relation indicates that one party or entity does not create any mandatory duties or requirements for another.
+eject: The act of legally compelling an individual to vacate a property or premises.
+facilitate: To provide support or means that make possible or easier the implementation or enforcement of a legal concept.
+FALSE: A statement that is not true or does not correspond to reality.
+authorityover: The power or right to direct or control the actions or decisions of another entity or individual.
+intent_knowledge: The mental state where a person knowingly acts with a specific purpose or intention, often influencing the legal consequences of their actions.
+invitation: An invitation refers to a formal request by one party to another to engage in a specific action, which may establish the basis for a legal obligation or agreement.
+operate: To operate means one entity controls and manages another within established legal frameworks.
+originate_from: The legal relationship where a right or obligation arises from a specific source, such as a contract, statute, or precedent.
+owe: To have a debt or legal obligation to provide something of value.
+property: Property refers to the bundle of rights in and to something tangible or intangible, including possession, use, control, exclusion, derivation, and disposition.
+position: The relative status or arrangement of one legal concept concerning another.
+remove: To legally transfer authority from one party to another.
+review: A formal examination and evaluation of a decision or action by a higher authority, potentially leading to modification or overturning.
+search: The examination or exploration of a person's property or communications to locate evidence.
+treat: A treats B when A takes action or omits to act in a manner that affects B's rights, obligations, or interests under certain conditions.
+versus: Indicates opposition or conflict between two legal concepts or parties.
+visit: The act of one party or entity lawfully entering or being present at another party's location for a specific purpose.
+was_in: The individual was present at a specific location during relevant events or at a specified time.
+present: One legal concept is currently in effect or existing relative to another.
+assess: To evaluate or determine the legal validity, value, or implications of a legal concept by examining relevant factors or information.
+eligibility: The condition that determines whether one legal concept grants access or entitlement to another.
+encroachment: The act of unlawfully entering or occupying someone else's land or property without authorization.
+exclusion: Exclusion refers to the act of removing or preventing someone or something from being included, recognized, or entitled to participate in a legal matter.
+validation: The process of confirming that a legal document, action, or decision complies with applicable laws and standards.
+adjust: To modify or alter terms, conditions, or obligations under a legal agreement.
+afford: To afford denotes having the financial means or capacity to pay for something, considering the individual's circumstances and without causing undue hardship.
+agency: A relationship where one party (agent) acts on behalf of another (principal), with the agent's actions legally binding the principal.
+assign: To transfer ownership or rights from one party to another through a formal agreement.
+cannot_claim: One party is prohibited from making a legal claim against the other.
+confine: To restrict or detain a person against their will under legal authority.
+conveyance: The transfer of legal title or ownership rights in property from one party to another.
+convicted: A person has been legally determined to be guilty of a crime.
+depose: To compel a witness to provide sworn testimony in a legal proceeding.
+dictate: One legal concept imposes or requires the existence or implementation of another.
+disclose: To reveal information, required by law or contract, from one party to another.
+discriminate: the unjust or unequal treatment of an individual based on protected characteristics such as race, gender, religion, or age.
+distribution: The transfer of assets or rights from one party to another based on legal rules or agreements.
+does_not_alter: The first concept does not serve to amend, modify, or change the second concept in any legal capacity.
+does_not_apply_to: A rule or law has no effect on a particular person, entity, or situation.
+does_not_prohibit: Indicates that one legal provision does not prohibit or restrict another.
+domicile: Domicile refers to a person’s permanent home or principal establishment where they have the most significant connections.
+entitled_to: One legal concept grants another legal concept the right or privilege to receive something.
+evidence_for: A serves as evidence supporting B.
+examination: An official process to assess or verify something, typically conducted by a court or tribunal.
+executed: the carrying out or putting into effect of a legal obligation, agreement, or document.
+duty_imposed_by: A legal entity or authority imposes an obligation or responsibility (duty) upon another party.
+interest_in: A legal claim or entitlement to use, possess, or otherwise benefit from a particular thing or right.
+monetary_value: The amount of money assigned to assess the financial worth of a right or obligation under a legal agreement.
+obligation: An obligation represents a duty or burden enforceable by law that requires one party to perform specific actions or refrain from certain behaviors.
+value: Value refers to the worth or benefit of something in terms of money, goods, or services.
+heir: A person who legally inherits property or rights after another's death.
+held_that: One party is legally responsible for another's debt or obligation.
+impose_penalty: To apply or enforce a punishment or sanction.
+imposes_restrictions_on: The relation indicates that one legal concept imposes limitations or constraints on another.
+imposes_tax: A government authority mandates the collection of taxes from individuals or entities.
+intervention: A third party's action to influence a legal proceeding due to having an interest in the matter.
+investment: The allocation of capital into an enterprise or project with the expectation of generating economic gain.
+issued: A document is issued when it is created or given authority by an official entity.
+mention_in_document: One legal concept is cited or referenced in the context of another.
+non_compliance: The failure to adhere to legal requirements or obligations.
+on: One concept imposes a condition or requirement on another.
+outside: The first legal concept is not included within or subject to the jurisdiction or application of the second.
+oversaw: To have authority or responsibility over another person's actions or decisions.
+oversees: To monitor and ensure compliance with laws or policies.
+penalty: A penalty is a punitive measure imposed by law for the violation of legal rules or regulations.
+publish: To officially release legal information for public access.
+pursuance: The continuation or furtherance of official duties or powers.
+quash: To invalidate or nullify a legal order or decision, rendering it ineffective.
+registered: The process by which a company officially records its existence and operations within a specific jurisdiction.
+rendered_judgment: The formal decision made by a court or tribunal in a legal proceeding, officially pronouncing the outcome.
+replace: Replace indicates that one legal entity takes the place of another in a specific context.
+reprimand: An official rebuke from a legal authority to an individual or entity for misconduct.
+response_obligation: A legal requirement for one party to formally respond to allegations or claims made by another party in a legal proceeding.
+scrutiny: A formal and detailed examination of actions or decisions to assess their legality or appropriateness.
+slander: A false and defamatory statement made orally or in a transitory form that harms another's reputation.
+succession_rights: The legal entitlements and interests that pass from one person to another upon death.
+supersede: To take precedence over and replace a prior legal concept.
+supervise: One legal concept has the authority to monitor, direct, or regulate the actions of another to ensure compliance with established rules or standards.
+supplementary: Indicates that one provision or document is added to or supports another, but does not replace it.
+suspend: The temporary cessation of a right, privilege, or obligation as a penalty or measure until specified conditions are met or circumstances change.
+was_allowed: The permission granted to an individual or entity to perform a specific action under certain conditions.
+was_conducted_by: Indicates that one entity carried out or managed a particular process or action.
+was_involved_in: Indicates participation in a case, matter, or transaction.
+was_made_by: Indicates that one legal entity or instrument was created or produced by another party.
+certainty_of_fact: The degree of confidence required to establish a fact beyond doubt in a legal context.
+prescribed: Indicates that a legal requirement or obligation is established by law.

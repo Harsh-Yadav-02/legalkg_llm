@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "./scripts/filox",
+        "./scripts/filox/entity_types"
+    ]
+}

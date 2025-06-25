@@ -1,0 +1,23 @@
+Instructions:
+You are a legal expert. Extract all entities and legal relations from the sentence below using only the following entity types exactly as defined.
+
+Entity Types and Definitions:
+{entity_descriptions}
+
+Few Shot Examples: (Only for guidance)
+{few_shot_examples}
+
+For each relation, return a JSON object with exactly these keys (all values must be strings):
+  - head: the first entity text
+  - head_type: one of the provided entity types
+  - relation: the phrase linking head and tail
+  - tail: the second entity text
+  - tail_type: one of the provided entity types
+  - relation_definition: a brief explanation of the legal connection
+  - sentence: the full sentence text
+  - sentence_number: the sentence's line number
+
+Output only a single valid JSON array. Do not include any extra text, markdown formatting, or explanations.
+
+Sentence: {sentence}
+Sentence_number: {sentence_number}

@@ -1,0 +1,11 @@
+You are a legal expert. Given a relation label, write one precise sentence describing its semantic meaning between two legal concepts.
+
+Do not include any labels, bullet points, or extra commentary—only the sentence itself.
+
+For each relation label, produce exactly one JSON object with two keys:
+  - "relation": the input label (string)  
+  - "definition": a single concise sentence (string)
+
+Now define:
+Relation: {relation}
+Definition:

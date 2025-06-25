@@ -1,0 +1,125 @@
+Example 1
+Sentence:
+"On 12 March 2023, Mister Arun Kumar filed a lawsuit against Acme Corporation citing a breach of contract under Section 73 of the Indian Contract Act in the Delhi High Court."
+Sentence Number: 1
+Output: [
+  {
+    "head": "Mister Arun Kumar",
+    "head_type": "Plaintiff",
+    "relation": "filed lawsuit against",
+    "tail": "Acme Corporation",
+    "tail_type": "Defendant",
+    "relation_definition": "The Plaintiff initiated legal action against the Defendant.",
+    "sentence": "On 12 March 2023, Mister Arun Kumar filed a lawsuit against Acme Corporation citing a breach of contract under Section 73 of the Indian Contract Act in the Delhi High Court.",
+    "sentence_number": "1"
+  },
+  {
+    "head": "12 March 2023",
+    "head_type": "Date and Time",
+    "relation": "represents the filing date for",
+    "tail": "the lawsuit",
+    "tail_type": "Lawsuit",
+    "relation_definition": "This date indicates when the lawsuit was initiated.",
+    "sentence": "On 12 March 2023, Mister Arun Kumar filed a lawsuit against Acme Corporation citing a breach of contract under Section 73 of the Indian Contract Act in the Delhi High Court.",
+    "sentence_number": "1"
+  },
+  {
+    "head": "Lawsuit",
+    "head_type": "Lawsuit",
+    "relation": "was filed in",
+    "tail": "the Delhi High Court",
+    "tail_type": "Court",
+    "relation_definition": "The lawsuit was initiated in the designated court.",
+    "sentence": "On 12 March 2023, Mister Arun Kumar filed a lawsuit against Acme Corporation citing a breach of contract under Section 73 of the Indian Contract Act in the Delhi High Court.",
+    "sentence_number": "1"
+  },
+  {
+    "head": "Lawsuit",
+    "head_type": "Lawsuit",
+    "relation": "alleges a breach of contract",
+    "tail": "a breach of contract",
+    "tail_type": "Legal Issue",
+    "relation_definition": "The lawsuit asserts that a breach of contract occurred.",
+    "sentence": "On 12 March 2023, Mister Arun Kumar filed a lawsuit against Acme Corporation citing a breach of contract under Section 73 of the Indian Contract Act in the Delhi High Court.",
+    "sentence_number": "1"
+  },
+  {
+    "head": "Breach of contract",
+    "head_type": "Legal Issue",
+    "relation": "is governed by",
+    "tail": "Section 73 of the Indian Contract Act",
+    "tail_type": "Legal Provision",
+    "relation_definition": "The legal issue is subject to the provisions of Section 73 of the Indian Contract Act.",
+    "sentence": "On 12 March 2023, Mister Arun Kumar filed a lawsuit against Acme Corporation citing a breach of contract under Section 73 of the Indian Contract Act in the Delhi High Court.",
+    "sentence_number": "1"
+  }
+]
+
+Example 2
+Sentence:
+"Miss Priya Sharma represented Global Tech Solutions in an appeal case at the Mumbai High Court challenging the 2021 tax ruling issued by the Income Tax Appellate Tribunal."
+Sentence Number: 2
+Output: [
+  {
+    "head": "Miss Priya Sharma",
+    "head_type": "Learned Counsel",
+    "relation": "represented",
+    "tail": "Global Tech Solutions",
+    "tail_type": "Organization",
+    "relation_definition": "The Learned Counsel acted on behalf of the Organization.",
+    "sentence": "Miss Priya Sharma represented Global Tech Solutions in an appeal case at the Mumbai High Court challenging the 2021 tax ruling issued by the Income Tax Appellate Tribunal.",
+    "sentence_number": "2"
+  },
+  {
+    "head": "Global Tech Solutions",
+    "head_type": "Organization",
+    "relation": "was involved in",
+    "tail": "an appeal",
+    "tail_type": "Appeal",
+    "relation_definition": "The Organization was a party in the appeal process.",
+    "sentence": "Miss Priya Sharma represented Global Tech Solutions in an appeal case at the Mumbai High Court challenging the 2021 tax ruling issued by the Income Tax Appellate Tribunal.",
+    "sentence_number": "2"
+  },
+  {
+    "head": "Appeal",
+    "head_type": "Appeal",
+    "relation": "was filed in",
+    "tail": "the Mumbai High Court",
+    "tail_type": "Court",
+    "relation_definition": "The appeal was initiated in the appropriate court.",
+    "sentence": "Miss Priya Sharma represented Global Tech Solutions in an appeal case at the Mumbai High Court challenging the 2021 tax ruling issued by the Income Tax Appellate Tribunal.",
+    "sentence_number": "2"
+  },
+  {
+    "head": "Appeal",
+    "head_type": "Appeal",
+    "relation": "challenged",
+    "tail": "the 2021 tax ruling",
+    "tail_type": "Judgment or Order",
+    "relation_definition": "The appeal contested the issued tax ruling.",
+    "sentence": "Miss Priya Sharma represented Global Tech Solutions in an appeal case at the Mumbai High Court challenging the 2021 tax ruling issued by the Income Tax Appellate Tribunal.",
+    "sentence_number": "2"
+  },
+  {
+    "head": "2021 tax ruling",
+    "head_type": "Judgment or Order",
+    "relation": "was issued by",
+    "tail": "the Income Tax Appellate Tribunal",
+    "tail_type": "Judicial Body",
+    "relation_definition": "The tax ruling was provided by the designated judicial authority.",
+    "sentence": "Miss Priya Sharma represented Global Tech Solutions in an appeal case at the Mumbai High Court challenging the 2021 tax ruling issued by the Income Tax Appellate Tribunal.",
+    "sentence_number": "2"
+  }
+]
+
+Example 3
+Sentence: 
+"The definition demonstrated that they are not in the position of fixing a deal."
+Sentence Number: 3
+Output: []
+
+Example 4
+Sentence: 
+"2."
+Sentence Number: 4
+Output: []

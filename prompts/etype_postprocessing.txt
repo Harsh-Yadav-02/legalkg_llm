@@ -1,0 +1,15 @@
+Assume you are a legal expert who understands legal documents thoroughly.
+
+Given the following list of entity types, do the following:
+1. Remove any entity types not relevant to the legal domain.
+2. Normalize/standardize the remaining types by merging naming variants into a canonical form.
+3. Your output must be a single JSON object—starting with “{{” and ending with “}}”, with no extra text or explanation outside the braces.  
+   - Each key in that object is a resolved (canonical) entity type (string).
+   - Each value is an array of the original variants (list of strings).
+
+Here is the list of entity types:
+{entity_list}
+
+IMPORTANT:
+- Do not include any commentary, bullet points, or code fences.  
+- Do not omit the outer curly braces.  

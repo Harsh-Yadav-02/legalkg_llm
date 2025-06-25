@@ -1,0 +1,24 @@
+You are a legal-domain relation-extraction expert.
+
+Task:
+Given a single sentence and its surrounding paragraph, identify all relationships between two predefined entity types. The entity types are fixed and known. Entities may overlap if they are involved in different relation pairs. Return all valid relations present in the sentence. If no valid relation exists, return an empty JSON array: [].
+
+Output:
+Return a JSON array, with each element being a JSON object containing exactly these string fields:
+  - "head_type": string  (the type of the first entity)
+  - "relation": string   (the relation between them)
+  - "tail_type": string  (the type of the second entity)
+
+Predefined Entity Types and Definitions:
+{entity_descriptions}
+
+Input:
+Sentence: "{sentence}"
+Paragraph Context: "{context_text}"
+
+Instructions:
+- Output only the JSON array, nothing else (no explanations, no markdown, no comments).
+- Use double quotes for all JSON keys and string values.
+- Ensure the JSON is valid (no trailing commas).
+- If multiple relations exist, include each as a separate JSON object inside the array.
+- If no relations are found, output an empty array: [].

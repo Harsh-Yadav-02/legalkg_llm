@@ -1,0 +1,87 @@
+accused: The individual legally charged with committing a crime, against whom prosecution is being pursued.
+act: A formal written law passed by a legislature.
+action: A legal claim or cause of action recognized by law that enables an individual or entity to seek redress or remedy through judicial proceedings for an injury or wrong committed.
+agent: A legal entity designated to act on behalf of another person or organization, having the authority to make decisions or perform actions that legally bind the principal.
+appeal: A formal request made to a higher court or tribunal to review and overturn a lower court's decision.
+appellant: A party who brings an appeal, challenging a lower court's decision as incorrect or unlawful.
+application: A formal request made to a court, tribunal, or other legal authority for a specific action or benefit.
+argument: A statement or series of statements made to establish or prove a point of law, typically presented during legal proceedings such as trials or hearings.
+asset: A legally recognized item, property, or right that is owned by an individual, business, or entity and has value in terms of money, benefits, or other resources. It includes tangible items (e.g., real estate, vehicles) and intangible items (e.g., intellectual property, shares).
+authority: The right or power to make decisions, enforce rules, or take action within a legal framework.
+beneficiary: A person legally entitled to receive benefits or advantages from another, typically under a trust, will, insurance policy, or other legal arrangement.
+business: An organization engaged in commercial, industrial, or professional activities, typically aiming to make a profit.
+case: A legal proceeding in which one party seeks to enforce rights against another party through a court or tribunal.
+charge: A formal accusation in criminal law alleging that an individual has committed a specific offense.
+citation: A reference to an authority or source cited as evidence or justification for a statement or proposition.
+claim: A statement or assertion that affirms a party's legal right to something.
+company: An entity formed under legal jurisdiction to engage in business activities, consisting of individuals organized for collective action
+complainant: A person who files a formal complaint in a legal proceeding.
+constitution: A fundamental law establishing the principles, rules, and structure of a government or organization, outlining the rights, duties, and limitations of its entities and members.
+contract: A legally binding agreement between two or more parties that outlines mutual obligations and rights, requiring consideration, mutual assent, capacity, and a lawful purpose.
+conviction: A conviction is the formal determination of guilt in a criminal proceeding.
+court: A judicial body established by law or tradition to adjudicate disputes, resolve legal issues according to applicable laws, and enforce justice.
+courtofficial: A person appointed to manage and oversee the administrative and operational functions of a court.
+bench: A panel of judges who has the authority to preside over legal proceedings and render judgments.
+crime: An act or omission that violates a statutory law and is subject to criminal penalties.
+date: A specific point in time, usually represented as a day, month, and year, used to record events or establish deadlines, durations, or obligations.
+dateandtime: A specific point in chronological order, consisting of both date (day, month, year) and time (hours, minutes), used to record when events occur or obligations are due.
+deceased: A person who has died.
+decision: A formal and official resolution or determination reached by a court or tribunal on a legal matter.
+definition: A concise explanation of the meaning or significance of a legal term or concept.
+doctrine: A system of established legal principles, rules, or theories that provide guidance on interpreting and applying laws.
+document: A written or printed instrument containing information relevant to legal matters.
+estate: all legal and equitable interests in real and personal property, including future interests, that an individual owns at the time of their death.
+event: An occurrence, happening, or incident with legal relevance or significance.
+evidence: Proof presented in a legal proceeding to establish a fact or support an assertion.
+expertwitness: An expert witness is a person with specialized knowledge or expertise in a particular field who is qualified by the court to provide testimony, analysis, or opinion that assists the judge or jury in understanding complex issues relevant to the case.
+fact: A specific event or circumstance that is verifiably true and serves as the foundation for legal reasoning or decisions.
+financialterm: A specific word, phrase, or abbreviation used within the context of finance and law that has an established, recognized meaning or definition.
+goods: Tangible movable personal property
+government: Government refers to the system by which a state or country is governed, including its institutions and branches that create and enforce laws.
+governmentagency: An ENTITY_TYPE GovernmentAgency refers to an organization established by law or governmental authority to perform specific functions such as administering programs, enforcing laws, regulations, policies, and standards on behalf of the government. It operates within the scope defined by its enabling statute or mandate and possesses certain powers, resources, and administrative capabilities.
+governmentofficial: An individual appointed or elected to serve in a public office, exercising authority and performing specific governmental functions.
+judge: A judge is a judicial officer appointed to hear and decide legal cases in a court of law.
+jurisdiction: The authority of a court to hear and decide cases involving a particular subject matter or geographic area.
+lawyer: A lawyer is an individual licensed to practice law who provides legal advice, representation, and advocacy for clients in court or other legal proceedings.
+learnedcounsel: A learned counsel refers to a senior or distinguished lawyer who has demonstrated significant expertise and experience in their legal practice.
+legalauthority: The power or right granted by law to an individual, organization, or entity to act in a specific manner within the legal framework.
+legalconcept: A fundamental principle, rule, or idea that forms the basis of legal systems and frameworks.
+legaldoctrine: A body of law principles and rules that are established through judicial decisions and precedents and that guide the application and interpretation of legal systems.
+legaldocument: A written or electronic record containing legal information, instructions, or agreements.
+legalprinciple: A fundamental rule or guideline that underpins and guides the interpretation and application of laws across various jurisdictions and legal systems.
+legalproceeding: A formal process conducted under judicial authority to enforce a law, regulation, or principle.
+legislature: A body of representatives elected to create, pass, and implement laws.
+location: A specific place or area recognized by law and having legal significance and functions.
+monetaryvalue: The financial worth or value of an entity, asset, or right, expressed in monetary terms and determined according to applicable laws, regulations, or agreements.
+obiterdictum: A remark or observation made by a judge during a court proceeding that is not necessary to the resolution of the issues before the court and therefore not considered binding precedent.
+offense: A violation of the law that results in a penalty or sanction.
+official: An entity officially recognized or established under law, such as a government agency, public institution, or authority.
+order: A directive or command, often issued by a court or other authority, requiring specific actions to be performed or behaviors to be adopted.
+organization: An organized body or group established to achieve specific objectives, characterized by a structured system of roles and processes, recognized within a legal framework.
+party: A person or entity involved in a legal matter.
+person: An individual or legal entity recognized by law as having rights and responsibilities.
+petition: A formal written request submitted by an individual or group to a court, government agency, or other authority, asking for specific action such as granting rights, redressing wrongs, or reviewing decisions.
+petitioner: An individual or entity that initiates legal proceedings by filing a petition with the court.
+plaintiff: The party who initiates a legal action by filing a complaint against another party, seeking compensation or specific relief.
+police: Government officials tasked with enforcing laws, maintaining public order, and preventing crimes.
+policy: A formal statement or plan by an organization, government, or authority that guides decision-making and actions, often outlining principles and rules governing behavior within a specific legal context.
+position: A position represents an officially designated role within an organization, government, or legal context, characterized by specific duties, responsibilities, and authority, whether formally established or de facto recognized.
+procedure: A systematic series of steps or formalities established by law or regulation for conducting affairs or business.
+process: A structured sequence of steps followed by parties or courts to resolve disputes, enforce rights, or carry out legal actions.
+property: A legal right to control, use, and transfer an item or resource, recognized by law.
+prosecution: The legal process in which the government or state initiates proceedings against an individual or entity accused of violating the law.
+provision: A specific clause, section, or stipulation within a contract, statute, or legal document that outlines terms, conditions, rights, or obligations.
+publication: A written or printed work consisting of pages glued together within a cover, intended to contain a continuous body of text.
+ratiodecidendi: The rationale or reason underlying the act of killing, particularly examined in legal contexts such as justifiable homicide or self-defense.
+regulation: A formally established rule or order issued by a governing authority to regulate conduct or activities within its jurisdiction, carrying the force of law.
+respondent: A person legally required to reply to a notice or charge, typically the defendant in a trial.
+role: A defined function or responsibility assigned to an individual within a legal context.
+rule: A principle or directive established by a governing authority to regulate conduct or establish standards of behavior.
+section: A section is a subdivision within a statute or regulation, organized hierarchically to structure legal provisions.
+sentence: A punishment or penalty imposed by a court on a person convicted of a crime.
+statute: A statute is a written law enacted by a legislative body, having the force of law at the national, state, or local level.
+suspect: A person regarded as having committed or being responsible for a criminal offense, but not yet proven guilty.
+tax: A tax is a compulsory contribution imposed by the government on individuals or entities to generate public revenue.
+victim: A person who has been wronged, injured, or otherwise harmed by the unlawful acts of another.
+weapon: An object designed or used to cause physical harm or incapacitation to another person or entity.
+witness: A person who has firsthand knowledge of facts or events and can provide testimony regarding them in a legal proceeding.
