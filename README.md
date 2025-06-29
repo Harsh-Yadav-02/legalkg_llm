@@ -1,3 +1,4 @@
+```
 .vscode/
     └── settings.json
 
@@ -36,3 +37,4 @@ scripts/
 .gitignore
 output.log
 requirements.txt
+```
