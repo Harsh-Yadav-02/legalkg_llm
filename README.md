@@ -1,4 +1,4 @@
-## 🧠 Tech Stack Used
+<img width="659" height="268" alt="image" src="https://github.com/user-attachments/assets/ce407e08-ec38-4783-84d3-170b70a46875" />## 🧠 Tech Stack Used
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,linux,git" height="35"/>
@@ -15,19 +15,29 @@
 - **OS**: Linux  
 - **Execution Environment**: Dedicated Server  
 
-## 🚀 Execution Environment
-
-- 🐧 Linux-based server  
-- ⚡ NVIDIA A100 (80GB VRAM)  
-- 🧠 Ollama for local LLM inference  
-- 🤗 Hugging Face for model access & experimentation  
-- 🐍 Python-based pipeline
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![NVIDIA](https://img.shields.io/badge/NVIDIA-A100-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
+
+![Python](https://img.shields.io/badge/Python-3.12.3-blue?style=flat-square&logo=python)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-LLM-black?style=flat-square)
+![Ollama](https://img.shields.io/badge/Ollama-Inference-black?style=flat-square)
+![NVIDIA A100](https://img.shields.io/badge/NVIDIA-A100-green?style=flat-square&logo=nvidia)
+![RAM](https://img.shields.io/badge/RAM-512GB-blue?style=flat-square)
+![VRAM](https://img.shields.io/badge/VRAM-80GB-success?style=flat-square)
+
+| Component | Details |
+|---------|---------|
+| **RAM** | 512 GB |
+| **Processor** | Intel® Xeon® Gold 6326 CPU @ 2.90 GHz (2 Processors) |
+| **OS Type** | 64-bit OS, x64-based processor |
+| **OS Name** | Windows Server 2022 Standard |
+| **GPU** | NVIDIA A100 |
+| **VRAM** | 80 GB |
+| **Python Version** | 3.12.3 |
 
 ```
 .vscode/
