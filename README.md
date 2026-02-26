@@ -12,7 +12,7 @@
 
 ## 🔗 Project Access Links
 
-[![Project Report](https://img.shields.io/badge/Final%20Project%20Report-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)]((https://drive.google.com/file/d/1R2N0tey7rDNMUUkfRHWwBOjP8BuUZKIT/view?usp=sharing))
+[![Project Report](https://img.shields.io/badge/Final%20Project%20Report-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1R2N0tey7rDNMUUkfRHWwBOjP8BuUZKIT/view?usp=sharing)
 [![Project Presentation](https://img.shields.io/badge/Project%20Presentation-PPT-orange?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)](https://drive.google.com/file/d/18ZI8Nu414bVskfFoEGZ7oNKJsxj6PtKa/view?usp=sharing)
 
 ## 🧾 Directory Tree
